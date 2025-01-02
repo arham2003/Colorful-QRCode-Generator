@@ -1,3 +1,5 @@
 streamlit
 qrcode
 pillow
+python-dotenv
+cloudinary
